@@ -127,7 +127,12 @@ int main(void)
 
 ## OUTPUT
 
-![WhatsApp Image 2025-09-12 at 10 56 47_ba2f3ca8](https://github.com/user-attachments/assets/3e34e01b-49ea-4e5f-a6e9-b996322dc673)
+## LED OFF
+<img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/e2e4cf8a-eb90-4354-92e1-2d292bda1e89" />
+## LED ON
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d2086b0b-435a-4bb6-a920-17dea5116c45" />
+
+
 
 ## Result
 
